@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Parker Sprinkle \n Seismology / Distributed Fiber Optic Sensing"
+title                    : "Parker Sprinkle Seismology / Distributed Fiber Optic Sensing"
 title_separator          : "-"
 name                     : &name "D. Parker Sprinkle"
 description              : &description "Researcher at PNNL and PhD student at University of Washington"
