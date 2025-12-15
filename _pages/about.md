@@ -14,6 +14,15 @@ Hi, I'm Parker.
 
 I'm an Earth Scientist at Pacific Northwest National Lab (PNNL) and a PhD student at the University of Washington.
 
-I'm interested in and research a variety of topics under the umbrella of seismology. In recent years, I've worked mostly with Distributed Acoustic Sensing (DAS) technology in an effort to better understand how seismologists can fold this new sensing technology into our existing tool-kit. I've worked with DAS recordings from underground explosions, enhanced geothermal reservoirs, and near surface environmental characterization sites. 
-For me DAS technology is so interesting because it lives at the intersection of geophysics, data science, and high performance computing. It's quite easy to generate > 1-2 TB of data each day with a DAS array. This presents quite a challenge for data storage, transfer and processing. Over the summer of 2023 I've been working on reconstucting DAS recordings from small subsets of the original data, a method known as compressive sensing, with various optimization techniques.
+As a researcher, I've worked on multiple topics within marine seismology and several mission spaces across DOE and DOD. I enjoy straddling the line between applied and experimental science and occasionally blur the line between scientist and engineer. 
+
+Much of my work lies at the intersection of geophysics (particularly seismology), data science, and distributed fiber optic sensing. I work with both terrestrial and submarine optical fiber networks. I use optimization and inverse theory along with high performance scientific computing and machine learning methods to solve problems related to national security, enhanced geothermal energy, and ocean science. 
+
+In recent years, I have developed a strong interest in building custom instruments/sensor and DAQs. As is often the case in R&D, off the shelf solutions may not exist so we need to improve on what’s available or build it ourselves. 
+
+I work with a team that specializes in computational and applied geophysics. We create software and develop algorithms for imaging and monitoring dynamic processes in the subsurface. We also design and build highly customized geophysical sensor arrays along with flow and stimulation systems for enhanced geothermal systems, environmental monitoring and remediation, as well as national security. Our capability comprises expertise across a wide range of fields relevant to subsurface science and engineering(e.g. seismology, data science, optical engineering, hydrology, electrical and EM geophysics, geomechanics, gravity, and mechanical and environmental engineering)
+
+In years past, I researched microseismicity at the Juan De Fuca mid ocean ridge system. I worked to better understand the connections between tidal triggering, moment release and the state of stress during a submarine volcanic eruption cycle through the lenses of seismology, data analysis and geo-statistics. 
+
+
 
