@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Parker Sprinkle Seismology / Data Science"
+title                    : "Parker Sprinkle Seismology / Distributed Fiber Optic Sensing"
 title_separator          : "-"
-name                     : &name "Parker Sprinkle"
+name                     : &name "D. Parker Sprinkle"
 description              : &description "Researcher at PNNL and PhD student at University of Washington"
 url                      : https://spri902.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Parker Sprinkle"
+  name             : "D. Parker Sprinkle"
   avatar           : "Parker_portrait.jpg"
   bio              : "Seismology * Fiber Optics * Data Science"
   location         : "Washington, USA"
