@@ -8,7 +8,7 @@ venue: 'JGR Solid Earth'
 paperurl: 'http://academicpages.github.io/files/Mixed-Mode.pdf'
 citation: 'Schoenball et. al., 2020'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+
+[Download paper here](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2020JB019807)
 
