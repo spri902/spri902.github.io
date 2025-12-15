@@ -33,7 +33,7 @@ Work experience
 * 2010 - 2012: Field Geophysicist
   * Schnabel Engineering 
   * Duties included:
-    * Near surface geophysical data collection (seismic refraction / MASW, GPR, electrical resistivity)
+    * Near surface geophysical data collection (seismic refraction / MASW, gravity, electrical resistivity)
     * Data processing / report writing  
 
 Skills
@@ -41,13 +41,17 @@ Skills
 * Distributed Acoustic Sensing
   * Strain Inversion
   * Fracture hit detection
-  * Microseismic 
-* Machine Learning / Scientific Computing 
-* Coda Wave Interferometry / Ambient Noise  
+  * Microseismic Earthquake / Aftershock catalog generation
+  * Source Parameter Estimation
+  * Submarine DAS
+* HPC / Scientific Computing 
+* Coda Wave Interferometry / Ambient Noise / Array Seismology
 * Data Inversion
+  * Tomography
   * Optimization
 * Signal Processing
-  * Earthquake Detection / Location 
+  * Earthquake Detection / Location
+  * Explosion characterization
 * Python, Julia, Matlab
 
 Publications
@@ -61,13 +65,15 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+<!--  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+  -->
+ <!-- 
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
