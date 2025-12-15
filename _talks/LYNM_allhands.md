@@ -1,5 +1,5 @@
 ---
-title: "2024"
+title: "LYNM All Hands 2024"
 collection: talks
 type: "Talk"
 permalink: /talks/AllHands
